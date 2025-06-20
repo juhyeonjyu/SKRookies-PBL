@@ -2,6 +2,13 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import MinMaxScaler
 
+"""
+당뇨병 진단 데이터를 활요한 데이터 전처리 및 EDA 분석
+결측치 및 이상치 처리 방법 학습
+
+당뇨병 진단 데이터를 기반으로 기초적인 데이터 전처리 및 탐색적 데이터 분석(EDA)을 수행하는 과제가 주어졌습니다.
+"""
+
 # 데이터 불러오기
 df = pd.read_csv('20250618_175248_diabetes.csv')
 
