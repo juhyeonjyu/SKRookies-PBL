@@ -1,2 +1,2 @@
 # SKRookies-PBL
-PBL Source Code
+PBL(Problem-Based Learning) Source Code
